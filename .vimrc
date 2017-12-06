@@ -4,7 +4,7 @@ inoremap jj <ESC>
 "set nocompatible
 "syntax enable
 "filetype plugin on
-"set background=dark
+set background=dark
 nnoremap <Down> :echomsg "use j"<cr>
 nnoremap <Up> :echomsg "use k"<cr>
 nnoremap <Left> :echomsg "use h"<cr>
